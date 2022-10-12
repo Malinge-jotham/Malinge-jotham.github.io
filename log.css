@@ -1,0 +1,63 @@
+body{
+    justify-content: center;
+    background: blue;
+}
+form{
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    width: 30%;
+    color: black;
+    border: 7px solid grey;
+    background: white;
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: -10px;
+    border-top-right-radius: -10px;
+
+}
+#header{
+    font-weight: 900;
+    font-size: xx-large;
+    top: 10px;
+    color: blue;
+}
+button{
+    background: blue;
+    border-radius: 5px;
+    text-decoration: none;
+}
+#remember{
+    color: gray;
+}
+#sign{
+    color: rgb(83, 16, 150);
+    font-size: large;
+}
+a:hover#remember{
+    color: blue;
+}
+#back{
+    color: blue;
+}
+a{
+    font-size: xx-large;
+    text-decoration-line: none;
+}
+a:hover{
+    color: blue;
+    cursor: pointer;
+}
+label{
+    font-weight: 900;
+    text-align: center;
+}
+
+#inputs{
+    
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: -10px;
+    border-top-right-radius: -10px;
+
+}
